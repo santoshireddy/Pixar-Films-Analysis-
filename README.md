@@ -1,7 +1,7 @@
 🎬 Pixar Films Analysis (1995–2024) | Power BI Dashboard
 Data Visualization | Entertainment Analytics | Maven Analytics Challenge
 
-This project explores the cinematic and commercial evolution of Pixar Animation Studios, from their debut with Toy Story (1995) to Inside Out 2 (2024). Using a structured dataset curated by Eric Leung and provided via a Maven Analytics Challenge, I created an interactive Power BI dashboard to uncover insights into Pixar’s filmography.
+This project explores the cinematic and commercial evolution of Pixar Animation Studios, from  Toy Story (1995) to Inside Out 2 (2024). Using a structured dataset curated by Eric Leung and provided via a Maven Analytics Challenge, I created an interactive Power BI dashboard to uncover insights into Pixar’s filmography.
 
 
 🔍 Dataset Overview
@@ -30,7 +30,7 @@ Critic Ratings vs. Awards – Identify critically acclaimed films and award winn
 
 Sequels vs. Originals – Compare success metrics between sequels and their originals
 
-Trend Analysis – Explore changes in genres, MPAA ratings, and thematic styles over time
+Trend Analysis – Explore changes in genres, ratings, and thematic styles over time
 
 Interactive Filters – Slice data by year, genre, sequel/original, and more
 
