@@ -3,32 +3,12 @@ Data Visualization | Entertainment Analytics | Maven Analytics Challenge
 
 This project explores the cinematic and commercial evolution of Pixar Animation Studios, from their debut with Toy Story (1995) to Inside Out 2 (2024). Using a structured dataset curated by Eric Leung and provided via a Maven Analytics Challenge, I created an interactive Power BI dashboard to uncover insights into Pixar’s filmography.
 
-📁 Project Files
-Pixar.pbix – Power BI dashboard file
-
-README.md – Project overview and key findings
-
-pixar_films.csv – (Optional: if dataset is included separately for reference)
-
-Dashboard screenshots – (Optional: preview images for GitHub rendering)
 
 🔍 Dataset Overview
 Source: Maven Analytics / Eric Leung
 Format: CSV
 Records: 28 Pixar films
-Fields: 22, including:
-
-Film title, release year
-
-Directors, writers, producers
-
-Budget and box office earnings
-
-Rotten Tomatoes and Metacritic ratings
-
-Oscar nominations and wins
-
-Sequel indicator, genre, MPAA rating
+Fields: 22.
 
 🧹 Data Cleaning and Preparation
 Transformed raw column names into clean, human-readable headers
