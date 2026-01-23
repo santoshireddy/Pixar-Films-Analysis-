@@ -46,7 +46,7 @@ Key fields include:
 ### Overview of Findings
 From the dashboard, it is observed that Pixar’s total profit across films is approximately $13bn, with sequels contributing the largest share of profitability. High box office revenue does not consistently align with the highest production budgets, and awards recognition spans across both commercially successful and moderately performing films.
 
-![Pixar Analysis](images/dashboard.png)
+![Pixar Analysis](images/Dashboard.png)
 
 ---
 
