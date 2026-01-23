@@ -53,40 +53,40 @@ From the dashboard, it is observed that Pixar’s total profit across films is a
 ## Insights Deep Dive
 
 ### Category 1: Profitability & Sequels Performance
-**Insight 1:** From the Movie sequels with profits bar chart, Inside Out 2 appears as the highest-profit sequel, followed by Toy Story 4 and Toy Story 3.
-**Insight 2:**: Multiple films from the Toy Story franchise appear repeatedly among profitable titles, indicating consistent financial performance across sequels.
-**Insight 3:**: Several earlier films (e.g., Cars, Monsters, Inc.) show comparatively lower profit values relative to recent releases.
-**Insight 4:**: The dashboard headline KPI shows total profit of ~13bn, indicating strong cumulative financial performance.
+* **Insight 1:** From the Movie sequels with profits bar chart, Inside Out 2 appears as the highest-profit sequel, followed by Toy Story 4 and Toy Story 3.
+* **Insight 2:**: Multiple films from the Toy Story franchise appear repeatedly among profitable titles, indicating consistent financial performance across sequels.
+* **Insight 3:**: Several earlier films (e.g., Cars, Monsters, Inc.) show comparatively lower profit values relative to recent releases.
+* **Insight 4:**: The dashboard headline KPI shows total profit of ~13bn, indicating strong cumulative financial performance.
 
 ![Pixar Analysis](images/moviesequals.png)
 
 ---
 
 ### Category 2: Budget vs Box Office Performance
-**Insight 1:** From the Top film budget by box office worldwide chart, Inside Out 2 leads worldwide box office among the listed films.
-**Insight 2:** Films such as Toy Story 4 and Toy Story 3 achieve high box office results without being the highest-budget films.
-**Insight 3:** Higher budgets do not consistently result in proportionally higher box office revenue.
-**Insight 4:** Mid-budget films such as Monsters University still achieve strong worldwide box office outcomes.
+* **Insight 1:** From the Top film budget by box office worldwide chart, Inside Out 2 leads worldwide box office among the listed films.
+* **Insight 2:** Films such as Toy Story 4 and Toy Story 3 achieve high box office results without being the highest-budget films.
+* **Insight 3:** Higher budgets do not consistently result in proportionally higher box office revenue.
+* **Insight 4:** Mid-budget films such as Monsters University still achieve strong worldwide box office outcomes.
 
 ![Pixar Analysis](images/topfilmbudget.png)
 
 ---
 
 ### Category 3: Ratings & Scores Distribution
-**Insight 1:** From the Film rating according to scores pie chart, Rotten Tomatoes scores contribute the largest share among the aggregated rating metrics.
-**Insight 2:** IMDb and Metacritic scores contribute smaller but comparable proportions.
-**Insight 3:** The distribution indicates relatively balanced critical reception across multiple rating platforms.
-**Insight 4:** No single rating source overwhelmingly dominates all others.
+* **Insight 1:** From the Film rating according to scores pie chart, Rotten Tomatoes scores contribute the largest share among the aggregated rating metrics.
+* **Insight 2:** IMDb and Metacritic scores contribute smaller but comparable proportions.
+* **Insight 3:** The distribution indicates relatively balanced critical reception across multiple rating platforms.
+* **Insight 4:** No single rating source overwhelmingly dominates all others.
 
 ![Pixar Analysis](images/filmrating.png)
 
 ---
 
 ### Category 4: Runtime, Awards & Box Office Trends
-**Insight 1:** From the Top runtime with scores table, Incredibles 2 has the longest runtime (118 minutes) among the highlighted films.
-**Insight 2:** Films with longer runtimes (e.g., Cars, The Incredibles) still maintain strong cinema scores (A or A+).
-**Insight 3:** The Films received awards table shows multiple films winning Animated Feature, with some also winning Original Song or Sound Editing.
-**Insight 4:** The Box office worldwide by films line chart shows higher box office peaks for earlier and franchise films, followed by a gradual decline across later standalone titles.
+* **Insight 1:** From the Top runtime with scores table, Incredibles 2 has the longest runtime (118 minutes) among the highlighted films.
+* **Insight 2:** Films with longer runtimes (e.g., Cars, The Incredibles) still maintain strong cinema scores (A or A+).
+* **Insight 3:** The Films received awards table shows multiple films winning Animated Feature, with some also winning Original Song or Sound Editing.
+* **Insight 4:** The Box office worldwide by films line chart shows higher box office peaks for earlier and franchise films, followed by a gradual decline across later standalone titles.
 
 ![Pixar Analysis](images/runtime.png)
 
