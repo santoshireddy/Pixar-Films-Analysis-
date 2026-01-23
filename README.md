@@ -54,9 +54,9 @@ From the dashboard, it is observed that Pixar’s total profit across films is a
 
 ### Category 1: Profitability & Sequels Performance
 * **Insight 1:** From the Movie sequels with profits bar chart, Inside Out 2 appears as the highest-profit sequel, followed by Toy Story 4 and Toy Story 3.
-* **Insight 2:**: Multiple films from the Toy Story franchise appear repeatedly among profitable titles, indicating consistent financial performance across sequels.
-* **Insight 3:**: Several earlier films (e.g., Cars, Monsters, Inc.) show comparatively lower profit values relative to recent releases.
-* **Insight 4:**: The dashboard headline KPI shows total profit of ~13bn, indicating strong cumulative financial performance.
+* **Insight 2:** Multiple films from the Toy Story franchise appear repeatedly among profitable titles, indicating consistent financial performance across sequels.
+* **Insight 3:** Several earlier films (e.g., Cars, Monsters, Inc.) show comparatively lower profit values relative to recent releases.
+* **Insight 4:** The dashboard headline KPI shows total profit of ~13bn, indicating strong cumulative financial performance.
 
 ![Pixar Analysis](images/moviesequals.png)
 
