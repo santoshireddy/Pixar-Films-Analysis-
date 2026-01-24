@@ -1,4 +1,4 @@
-# 🎬 Pixar Films Analysis (1995–2024)
+# 🎬 Pixar Films Analysis 
 
 **Entertainment Analytics | Power BI Dashboard | Maven Analytics Challenge**
 
